@@ -1,0 +1,21 @@
+TASK 1 - NOISY TEST IMAGE OBSERVATIONS
+=======================================
+
+SALT-AND-PEPPER NOISE
+MSE: 790.5643
+PSNR: 19.1514 dB
+Sharpness: 16351.5880
+
+GAUSSIAN NOISE
+MSE: 300.3763
+PSNR: 23.3541 dB
+Sharpness: 3525.4423
+
+VISUAL OBSERVATIONS
+-------------------
+Salt-and-pepper noise appears as isolated black and white pixels. It is impulse-type noise and is particularly visible around image details and uniform regions.
+
+Gaussian noise appears as random intensity variations distributed throughout the image. It produces a grain-like appearance rather than isolated extreme pixels.
+
+Original sharpness: 907.2205
+The numerical values can be used along with the visual comparison to evaluate the effect of noise.
