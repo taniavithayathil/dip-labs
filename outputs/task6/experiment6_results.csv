@@ -1,0 +1,22 @@
+Image,Category,Method,Threshold,Edge_Density_%,Foreground_%,Sharpness
+ss_1.jpeg,Edge Detection,Roberts,,4.0681,,503.6981
+ss_1.jpeg,Edge Detection,Prewitt,,6.6101,,503.6981
+ss_1.jpeg,Edge Detection,Sobel,,6.4404,,503.6981
+ss_1.jpeg,Edge Detection,Laplacian,,5.2791,,503.6981
+ss_1.jpeg,Thresholding,Global Threshold,128,,4.7611,503.6981
+ss_1.jpeg,Thresholding,Otsu,89.0,,36.7234,503.6981
+ss_1.jpeg,Thresholding,Adaptive Threshold,Automatic,,72.315,503.6981
+ss_2.jpeg,Edge Detection,Roberts,,2.2329,,355.2354
+ss_2.jpeg,Edge Detection,Prewitt,,3.8353,,355.2354
+ss_2.jpeg,Edge Detection,Sobel,,3.7152,,355.2354
+ss_2.jpeg,Edge Detection,Laplacian,,2.5841,,355.2354
+ss_2.jpeg,Thresholding,Global Threshold,128,,11.1567,355.2354
+ss_2.jpeg,Thresholding,Otsu,125.0,,11.2411,355.2354
+ss_2.jpeg,Thresholding,Adaptive Threshold,Automatic,,90.1432,355.2354
+ss_3.jpeg,Edge Detection,Roberts,,4.0418,,477.6884
+ss_3.jpeg,Edge Detection,Prewitt,,6.9745,,477.6884
+ss_3.jpeg,Edge Detection,Sobel,,6.7082,,477.6884
+ss_3.jpeg,Edge Detection,Laplacian,,4.5794,,477.6884
+ss_3.jpeg,Thresholding,Global Threshold,128,,22.7997,477.6884
+ss_3.jpeg,Thresholding,Otsu,71.0,,43.5079,477.6884
+ss_3.jpeg,Thresholding,Adaptive Threshold,Automatic,,84.0254,477.6884
