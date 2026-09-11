@@ -1,0 +1,22 @@
+Image,Task,Method,Parameter,Region_Count,Region_Percentage,Processing_Time,Region_Count_After_Merging
+ss_1.jpeg,Region Growing,8-Connected,10,600,0.0508,0.005456,
+ss_1.jpeg,Region Growing,8-Connected,20,737192,62.4316,7.884808,
+ss_1.jpeg,Region Growing,8-Connected,40,1109519,93.9633,16.483084,
+ss_1.jpeg,Connectivity Comparison,4-Connected,20,737479,62.4559,2.082872,
+ss_1.jpeg,Connectivity Comparison,8-Connected,20,737192,62.4316,5.149817,
+ss_1.jpeg,Region Splitting,Quadtree,20,3742,,0.078903,
+ss_1.jpeg,Region Merging,Adjacent Mean Similarity,15,3742,,223.712519,374
+ss_2.jpeg,Region Growing,8-Connected,10,2395,0.2028,0.007755,
+ss_2.jpeg,Region Growing,8-Connected,20,2578,0.2183,0.011721,
+ss_2.jpeg,Region Growing,8-Connected,40,1034828,87.6379,6.913309,
+ss_2.jpeg,Connectivity Comparison,4-Connected,20,2577,0.2182,0.005311,
+ss_2.jpeg,Connectivity Comparison,8-Connected,20,2578,0.2183,0.008512,
+ss_2.jpeg,Region Splitting,Quadtree,20,1996,,0.026937,
+ss_2.jpeg,Region Merging,Adjacent Mean Similarity,15,1996,,54.35575,337
+ss_3.jpeg,Region Growing,8-Connected,10,67435,5.711,0.204759,
+ss_3.jpeg,Region Growing,8-Connected,20,69331,5.8715,0.247702,
+ss_3.jpeg,Region Growing,8-Connected,40,899688,76.1931,4.58419,
+ss_3.jpeg,Connectivity Comparison,4-Connected,20,69331,5.8715,0.141981,
+ss_3.jpeg,Connectivity Comparison,8-Connected,20,69331,5.8715,0.33438,
+ss_3.jpeg,Region Splitting,Quadtree,20,2800,,0.034431,
+ss_3.jpeg,Region Merging,Adjacent Mean Similarity,15,2800,,111.678922,325
